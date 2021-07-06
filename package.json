@@ -1,0 +1,22 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "This is an amazing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiv2130/node.git"
+  },
+  "author": "Shivanshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiv2130/node/issues"
+  },
+  "homepage": "https://github.com/shiv2130/node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
